@@ -2,6 +2,8 @@
 
 Check out the jupyter notebook here: https://jovian.ai/8smbhavikatti/spotify-songs-analysis
 
+![image](https://i.imgur.com/TYqXD8z.png)
+
 ## Introduction:
 This huge dataset contains all the songs in Spotify's Daily Top 200 charts in 35+1 (global) countries around the world for a period of over 3 years (2017-2020).
 
